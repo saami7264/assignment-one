@@ -1,0 +1,96 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    margin: 0px;
+    color: #575757;
+    background-color: whitesmoke;
+}
+h1{
+    font-size: 70px;
+    font-weight: 900;
+    text-shadow: 2px 2px silver;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+span{
+    color: orangered;
+}
+section{
+    display: flex;
+    margin: 2%;
+}
+#div1{
+    padding: 8%;
+}
+#div2{
+    padding: 1%;
+}
+#div2 img{
+    height: 620px;
+    width: 550px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(251, 162, 79, 1),rgba(255, 30, 30, 1));
+    padding: 15px 30px 15px 30px;
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+#sec2{
+    background-image: url(images/background-1.png);
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+#div3{
+    padding-left: 12%;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+#div3 img{
+    height: 500px;
+    width: 300px;
+}
+#div4{
+    padding-left: 20%;
+    padding-top: 12%;
+    padding-right: 12%;
+}
+.p-align{
+    text-align: center;
+}
+#sec3{
+    width: 33%;
+    margin: 2%;
+}
+.div-s3{
+    margin: 5% 18%;
+    border: 10px solid white;
+    border-radius: 15px;
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    padding: 2% 3%;
+}
+.div-s3 img{
+    height: 40%;
+    width: 100;
+    border-radius: 15px;
+}
+#sec4{
+    margin-left: 110px;
+    margin-right: 150px;
+}
+.div-s4{
+    background-color: white;
+    padding-left: 12%;
+    padding-right: 12%;
+    margin: 5% 0%;
+}
+footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
